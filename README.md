@@ -1,1 +1,1 @@
-"# OpenAPI-rails" 
+rails_codesフォルダ下にRailsの自動生成コードが入ってます。
